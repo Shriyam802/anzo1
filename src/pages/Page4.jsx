@@ -6,7 +6,7 @@ function Page4() {
   return (
     <div className='h-screen p-3 mt-5 bg-white overflow-hidden '>
     <div className='h-full w-full text-white  bg-black relative '>
-           <video className=' ' autoplay="true" muted loop >
+           <video className=' ' autoPlay="true" muted loop >
               <source src={videoSrc} type="video/mp4" />
            </video>
         <div className=' absolute inset-4  border-13 border-white rounded-[35px] '>
