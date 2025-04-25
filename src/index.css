@@ -1,7 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import "tailwindcss";
 
 @font-face {
     font-family: "anzo";
@@ -10,12 +9,12 @@
 
 @font-face {
     font-family: "anzo1";
-    src: url(./assets/file\(\1\).woff2);
+    src: url(./assets/file(1).woff2);
 }
 
 @font-face{
     font-family : "anzo2";
-    src : url(./assets/file\ \(2\).woff2)
+    src : url(./assets/file (2).woff2)
 }
 
 @font-face {
